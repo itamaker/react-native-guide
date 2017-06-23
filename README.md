@@ -105,6 +105,9 @@ https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_firs
 * React-Native专题系列文章
 http://www.lcode.org/react-native/
 
+* react native redux FeInn 从0到1让你学会搭建一个APP
+https://github.com/febobo/react-native-redux-FeInn
+
 ### React.js
 
 * react.js中文文档
@@ -389,6 +392,9 @@ https://github.com/EleTeam/Shop-React-Native
 
 * **掘金客户端**
 https://github.com/wangdicoder/JueJinClient
+
+* cnblogs 客户端
+https://github.com/togayther/react-native-cnblogs
 
 ## 图书
 * 《React Native入门与实战》
